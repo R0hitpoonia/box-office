@@ -1,1 +1,1 @@
-Deployed website Link = https://jaanvipandey.github.io/box-office/#/
+Deployed website Link = https://rohitpoonia.github.io/box-office/#/
